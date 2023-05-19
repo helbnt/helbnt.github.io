@@ -45,7 +45,7 @@ author:
   name:             shad
   email:            shad@i-am.ski 
   # # Used by `jekyll-seo-tag`:
- twitter:           helbnt 
+  twitter:          helbnt 
 
 # Add links to the sidebar.
 menu:
